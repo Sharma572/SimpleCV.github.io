@@ -1,0 +1,39 @@
+section{
+    margin: 2rem 4rem;
+}
+.Mypic{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+   box-shadow :2px 4px 8px 2px rgb(0, 0, 0);
+}
+figcaption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.4rem;
+    font-family: sans-serif;
+}
+ a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    padding: 0.8rem 0;
+}
+.wrapper-detals{
+    display: flex;
+    align-items: center;
+}
+table,tr{
+    padding: 1rem 0.7rem;
+}
+td{
+    padding: 0.4rem 0.7rem;
+
+}
+.social-icon{
+    height: 2.2rem;
+}
+li{
+    padding: 0.5rem 0;
+}
